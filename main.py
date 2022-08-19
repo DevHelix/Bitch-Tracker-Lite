@@ -2,7 +2,7 @@
 
 # COMPLETED: 8/18/2022
 
-# intended to keep track of all of nhan's hoes
+# intended to keep track of all of your hoes
 from asyncio import gather
 from multiprocessing.util import info
 import tkinter as tk
